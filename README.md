@@ -1,6 +1,6 @@
 # Project 3 - *Trivia App*
 
-Submitted by: **Danielle Alvarez **
+Submitted by: *Danielle Alvarez*
 
 **Trivia** is an app that displays a simple trivia game and lets the player answer and go on to the next question 
 
